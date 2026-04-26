@@ -15,3 +15,13 @@ O projeto de pesquisa intitulado “Dinâmica Temporal dos Alertas de Incêndios
 Palavras-Chave: Caatinga; Fisionomias; Incêndios/queimadas.
 
 MAIS INFORMAÇÕES
+
+__________________________________________________________________________________________________
+
+Para o artigo "", o script usado foi está no arquivo "script_python_cap_1.pdf"
+
+Para o artigo "", o link do GEE usado está disponível no link abaixo.
+
+https://code.earthengine.google.com/ad53e0b3e683c578246af77a651f36a9
+
+__________________________________________________________________________________________________
